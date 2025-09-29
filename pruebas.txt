@@ -1,0 +1,3 @@
+REPORTE DE PROBLEMAS
+- se modifico en archivo pantallas.txt por problemas de ortografia
+
